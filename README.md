@@ -1,0 +1,2 @@
+# smtpmail-qt
+Learn Qt
